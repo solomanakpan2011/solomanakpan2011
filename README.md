@@ -28,8 +28,8 @@ I enjoy solving complex problems, learning new technologies, and collaborating o
 ### ⚙️ Tools & Platforms
 - **Git & GitHub**
 - **VS Code**
-- **Postman / Thunder Client**
-- **npm / yarn**
+- **Postman**
+- **npm**
 
 ### ☁️ Backend Concepts
 - RESTful APIs  
@@ -73,8 +73,7 @@ I enjoy solving complex problems, learning new technologies, and collaborating o
 
 ## 📫 Contact Me
 
-- [email](solomanakpan2011@gmail.com)
-- [github.com](https://github.com/solomonakpan2011)
-- **LinkedIn:** [linkedin.com/in/solomonakpanefiok](https://linkedin.com/in/solomonakpanefiok)
+- **Email:** [solomanakpan2011@gmail.com](mailto:solomanakpan2011@gmail.com)
+- **GitHub:** [github.com/solomanakpan2011](https://github.com/solomanakpan2011)
 
 ---
